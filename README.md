@@ -7,7 +7,7 @@ Linux 4.15.4-30-generic
 
 # Installation
 + clone the file
-+ type `sh install.sh` on your command line
++ type `sh install.sh`
 
 # Test
 + `npm start`
